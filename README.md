@@ -1,0 +1,3 @@
+# For learning purposes only --
+there is a sample code provided which has alot of bugs that need to be fixed. i will be using gdb to fix them. 
+The make file is to complie the code such that i can run gdb ...
